@@ -1,0 +1,31 @@
+회원정보
+
+
+1) 이름   (10자 이내)
+
+2) 아이디 (15자 이내)
+
+3) 비밀번호 (15자 이내, 정규식 이용하여 특정 규칙)
+https://cofs.tistory.com/358
+
+4) 사진 (file chooser)
+http://blog.naver.com/PostView.nhn?blogId=cracker542&logNo=40119977325&categoryNo=7&viewDate=&currentPage=1&listtype=0
+
+5) email (Jcombobox)
+https://whiteit.tistory.com/entry/%EC%9E%90%EB%B0%94-%EC%86%8C%EC%8A%A4%EC%BD%94%EB%93%9C-%EC%BD%A4%EB%B3%B4%EB%B0%95%EC%8A%A4-%ED%99%9C%EC%9A%A9-%EC%98%88%EC%A0%9CJComboBox-JList?category=719971
+
+6) 
+
+
+
+
+회원 아이디 찾기
+
+1) 이메일로 비밀번호 보내기
+
+https://m.blog.naver.com/PostView.nhn?blogId=skawo32167&logNo=220439820375&proxyReferer=https%3A%2F%2Fwww.google.com%2F
+
+
+사진 사이트
+
+https://www.pixabay.com
